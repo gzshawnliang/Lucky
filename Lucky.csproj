@@ -112,6 +112,7 @@
     <Content Include="config.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="README.md" />
     <None Include="shutdown_32px.png" />
     <None Include="stop_64px.png" />
     <None Include="play_64px.png" />
